@@ -1,4 +1,4 @@
-# Kristans nettside
+# Kristians nettside
 
 ## Start
 
