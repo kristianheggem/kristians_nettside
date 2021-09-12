@@ -10,6 +10,8 @@ slug = "test"
 title= "test post"
 +++
 
+![Minecraft](/images/minecraft.jpg)
+
 ```bash
 echo "hello world !!"
 ```
