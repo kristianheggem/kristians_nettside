@@ -3,11 +3,11 @@ LanguageCode= "en-US"
 Title= "gokro"
 paginate = 5
 DisqusShortname = ""
-Copyright = "All rights reserved - 2016"
+Copyright = "All rights reserved - 2021"
 canonifyurls = true
 
 [author]
-  name = "syui"
+  name = "Kristian Heggem"
 
 [permalinks]
     post = "/post/:year/:month/:day/:slug"
@@ -15,15 +15,15 @@ canonifyurls = true
 [params] 
   description = "By Kristian Heggem" 
   cover = "images/logo_transparent.png"
-  author = "syui"
+  author = "Kristian Heggem"
   authorlocation = ""
-  authorwebsite = "https://syui.cf/hugo-theme-air"
+  authorwebsite = "https://github.com/kristianheggem/kristians_nettside"
   bio= "my bio"
   logo = "images/logo_transparent.png"
   googleAnalyticsUserID = ""
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   RSSLink = ""
-  githubName = "syui"
+  githubName = "Kristian Heggem"
   twitterName = ""
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
   hideHUGOSupport = false
