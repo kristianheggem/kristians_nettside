@@ -1,7 +1,7 @@
 +++
 date = "2021-09-12T11:54:24+02:00"
 draft = false
-title = "Minecraft Super Pro"
+title = "Minecraft Super"
 slug = "Fifo"
 tags = ["fifo","minecraft_LOL"]
 image = "/images/minecraft.jpg"
