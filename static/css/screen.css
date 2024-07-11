@@ -68,7 +68,7 @@ img { border: 0; }
 svg:not(:root) { overflow: hidden; }
 figure { margin: 0; }
 fieldset {
-   border: 1px solid #c0c0c0;
+   border: 1px solid #c2c2c2;
    margin: 0 2px;
    padding: 0.35em 0.625em 0.75em;
 }
@@ -191,11 +191,11 @@ body {
 }
 
 ::-moz-selection {
-    background: #D6EDFF;
+    background: #ffffff;
 }
 
 ::selection {
-    background: #D6EDFF;
+    background: #ffffff;
 }
 
 h1, h2, h3,
@@ -294,7 +294,7 @@ hr {
     display: block;
     height: 1px;
     border: 0;
-    border-top: #EFEFEF 1px solid;
+    border-top: #ffffff 1px solid;
     margin: 3.2em 0;
     padding: 0;
 }
@@ -316,7 +316,8 @@ blockquote small {
     display: inline-block;
     margin: 0.8em 0 0.8em 1.5em;
     font-size: 0.9em;
-    color: #CCC;
+    color: 
+    #ffffff;
 }
 
 blockquote small:before { content: "\2014 \00A0"; }
@@ -336,8 +337,8 @@ code, tt {
     font-family: Inconsolata, monospace, sans-serif;
     font-size: 0.85em;
     white-space: pre-wrap;
-    border: #E3EDF3 1px solid;
-    background: #F7FAFB;
+    border: #ffffff 1px solid;
+    background: #ffffff;
     border-radius: 2px;
 }
 
@@ -345,14 +346,14 @@ pre {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     margin: 0 0 1.75em 0;
-    border: #E3EDF3 1px solid;
+    border: #ffffff 1px solid;
     width: 100%;
     padding: 10px;
     font-family: Inconsolata, monospace, sans-serif;
     font-size: 0.9em;
     white-space: pre;
     overflow: auto;
-    background: #F7FAFB;
+    background: #f8fafa;
     border-radius: 3px;
 }
 
@@ -474,7 +475,7 @@ margin on the iframe, cause it breaks stuff. */
     /*position: relative;*/
     z-index: 10;
     min-height: 100%;
-    background: #fff;
+    background: #ffffff;
     -webkit-transition: -webkit-transform 0.5s ease;
             transition: transform 0.5s ease;
 }
@@ -1086,7 +1087,7 @@ body:not(.post-template) .post-title {
    text column to break out. */
 .post-content img {
     display: block;
-    max-width: 100%;
+    max-width: 400%;
     height: auto;
     padding: 0.6em 0;
     /* Centers an image by (1) pushing its left edge to the
@@ -1336,12 +1337,12 @@ body:not(.post-template) .post-title {
     margin: 4rem auto;
     font-family: "Open Sans", sans-serif;
     font-size: 1.3rem;
-    color: #9EABB3;
+    color: s#ffffff;
     text-align: center;
 }
 
 .pagination a {
-    color: #9EABB3;
+    color: #ffffff;
     transition: all 0.2s ease;
 }
 
@@ -1418,11 +1419,11 @@ body:not(.post-template) .post-title {
     position: relative;
     margin: 8rem 0 0 0;
     padding: 0.5rem 15px;
-    border-top: #EBF2F6 1px solid;
+    border-top: #616161 1px solid;
     font-family: "Open Sans", sans-serif;
     font-size: 1rem;
     line-height: 1.75em;
-    color: #BBC7CC;
+    color: #3a3a3a;
 }
 
 .site-footer a {
@@ -1462,7 +1463,7 @@ body:not(.post-template) .post-title {
     /* font-size: 44px; */
     text-align: center;
     text-decoration: none;
-    color: rgba(216, 204, 204, 0.7);
+    color: rgba(255, 255, 255, 0.7);
     /* -webkit-animation: bounce 4s 2s infinite; */
     /* animation: bounce 4s 2s infinite; */
     border: 1px solid transparent;
@@ -1472,7 +1473,7 @@ body:not(.post-template) .post-title {
     font-weight: 400;
     /* height: 38px; */
     /* padding: 0 15px; */
-    border: #f8fdff 1px solid;
+    border: #ffffff 1px solid;
     opacity: 1;
     /* color: #9EABB3; */
     /* text-align: center; */
@@ -1646,7 +1647,7 @@ body:not(.post-template) .post-title {
 @media only screen and (max-width: 500px) {
 
     article.post.post {
-        background-color: #fff;
+        background-color: #ffffff;
         padding: 20px;
         margin: 0;
     }
@@ -1844,7 +1845,7 @@ body:not(.post-template) .post-title {
     .post-footer .author {
         margin: 0 0 2rem 0;
         padding: 0 0 1.6rem 0;
-        border-bottom: #eaf1ff 1px dashed;
+        border-bottom: #ffffff 1px dashed;
     }
 
     .post-footer .share {
@@ -1991,7 +1992,7 @@ canvas {
   position: absolute;
   width: 100%;
   height: 100%;
-  background-color: #2FA7DC;
+  background-color: #fcfcfc;
   background-image: url("../images/mincraft.avif");
   background-repeat: no-repeat;
   background-size: cover;
@@ -2005,7 +2006,7 @@ canvas {
   top: 48px;
   left: 0;
   width: 80px;
-  color: #13e9e9;
+  color: #118ab9;
   font-size: .8em;
   text-align: left;
   text-indent: 4px;

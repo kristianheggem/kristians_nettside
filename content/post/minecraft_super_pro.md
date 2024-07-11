@@ -13,4 +13,4 @@ author = ""
 
 ![Minecraft](/images/minecraft.jpg)
 
-Her skal jeg skrive enda mer om Fifo og Minecraft
+Her skal jeg skrive enda mer om fifo og Minecraft 

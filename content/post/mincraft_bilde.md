@@ -1,9 +1,9 @@
 +++
-date = "2021-09-11T10:54:24+02:00"
+date = "2023-09-11T10:54:24+02:00"
 draft = false
-title = "Minecraft"
-slug = "Fifo"
-tags = ["fifo","mincraft"]
+title = "fifo"
+slug = "mincraft"
+tags = ["fifo"]
 image = "/images/minecraft.jpg"
 comments = false	# set false to hide Disqus
 share = true	# set false to hide share buttons
@@ -12,5 +12,3 @@ author = ""
 +++
 
 ![Minecraft](/images/minecraft.jpg)
-
-Her skal jeg skrive litt om Fifo og Minecraft!
