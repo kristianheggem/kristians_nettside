@@ -14,3 +14,4 @@ author = ""
 ![Minecraft](/images/minecraft.jpg)
 
 Her skal jeg skrive enda mer om fifo og Minecraft 
+Og kristian er kul!!!
