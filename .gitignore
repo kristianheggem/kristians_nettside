@@ -2,6 +2,7 @@ tmp
 .DS_Store
 public
 resources/
+.vscode/
 
 gh-pages
 gh-pages.pub
